@@ -1,5 +1,0 @@
-hidden = [".git", "LICENSE"]
-run = "cowsay Configure me!"
-
-[nix]
-channel = "stable-22_11"
