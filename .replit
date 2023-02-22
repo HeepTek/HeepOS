@@ -1,0 +1,5 @@
+hidden = [".git", "LICENSE", "README.md"]
+run = "cowsay Configure me!"
+
+[nix]
+channel = "stable-22_11"
