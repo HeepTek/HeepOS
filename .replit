@@ -1,5 +1,6 @@
-hidden = [".git", "LICENSE", "README.md"]
-run = "cowsay Configure me!"
+# this is the config file for Replit's IDE
+run = "!no config!"
+hidden = [".git"]
 
 [nix]
 channel = "stable-22_11"

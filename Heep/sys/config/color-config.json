@@ -1,0 +1,10 @@
+{
+  "lime": "//Heep/notification/lime-notification.png",
+  "green": "//Heep/notification/green-notification.png",
+  "darkblue": "//Heep/notification/darkblue-notification.png",
+  "lightblue": "//Heep/notification/lightblue-notification.png",
+  "red": "//Heep/notification/red-notification.png",
+  "black": "//Heep/notification/black-notification.png",
+  "default": "//Heep/notification/default-notification.png",
+  "white": "//Heep/notification/white-notification.png"
+}
